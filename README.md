@@ -104,6 +104,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 - [Docker Compose Development Environment](https://github.com/JeroenBoersma/docker-compose-development)
 - [Dockware >6.x](https://github.com/dockware/dockware)
 - [Devenv.sh Development Environment](https://developer.shopware.com/docs/guides/installation/devenv.html)
+- [Deploy with Bitbucket Pipelines](https://github.com/sidworks-dev/sw-bitbucket-pipelines-deployer)
 
 ### Other
 - [Shopware 6 Toolkit - Chrome extension](https://chrome.google.com/webstore/detail/meteor-shopware-6-toolkit/onmklnedjfgeaigmkjkldlgpeonpjpnc)
