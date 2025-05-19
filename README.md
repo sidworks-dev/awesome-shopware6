@@ -57,6 +57,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 - [display additional currency in storefront >6.6.x](https://github.com/akshaynikhare/SloxAdditionalCurrency)
 
 ### Administration
+- [Abandoned Cart API extension >6.5.x](https://github.com/mailcampaigns/shopware-6-abandoned-cart-plugin) (Adds `/abandoned-cart` endpoint to fetch carts from known customers)
 - [Order Advanced Filter >6.3](https://github.com/leduc92/sbuorderadvancedfilter)
 - [Login as Customer >6.5](https://github.com/Gainto/JblLoginAsCustomer)
 - [Maintenance Log-In >6.5](https://github.com/Gainto/JblMaintenanceLogin)
