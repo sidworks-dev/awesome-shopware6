@@ -76,7 +76,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 - [Two Factor Auth 2FA >6.x](https://github.com/runelaenen/shopware6-two-factor-auth)
 
 ### Marketing
-- [Search Results Insights Plugin >6.x](https://github.com/sidworks-dev/sw-plugin-search-results)
+- [Search Results Insights Plugin >6.6](https://github.com/sidworks-dev/sw-plugin-search-results)
 
 ### Developer Experience
 - [Official Shopware 6 Migration Assistant >6.x](https://github.com/shopware/SwagMigrationAssistant)
