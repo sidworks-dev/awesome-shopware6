@@ -55,6 +55,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 - [Editable meta robots by CREHLER >6.x](https://github.com/crehler/CrehlerMetaRobots)
 - [Matomo eCommerce tracking >6.6.x](https://github.com/akshaynikhare/SloxMatomoEcomerce) 
 - [display additional currency in storefront >6.6.x](https://github.com/akshaynikhare/SloxAdditionalCurrency)
+- [Product Labels Plugin >6.6](https://github.com/sidworks-dev/sw-plugin-product-labels)
 
 ### Administration
 - [Abandoned Cart API extension >6.5.x](https://github.com/mailcampaigns/shopware-6-abandoned-cart-plugin) (Adds `/abandoned-cart` endpoint to fetch carts from known customers)
