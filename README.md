@@ -56,6 +56,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 - [Matomo eCommerce tracking >6.6.x](https://github.com/akshaynikhare/SloxMatomoEcomerce) 
 - [display additional currency in storefront >6.6.x](https://github.com/akshaynikhare/SloxAdditionalCurrency)
 - [Product Labels Plugin >6.6](https://github.com/sidworks-dev/sw-plugin-product-labels)
+- [Shopauskunft Integration > 6.x](https://github.com/matzmuda/shopware6-shopauskunft-widget)
 
 ### Administration
 - [Abandoned Cart API extension >6.5.x](https://github.com/mailcampaigns/shopware-6-abandoned-cart-plugin) (Adds `/abandoned-cart` endpoint to fetch carts from known customers)
@@ -118,7 +119,6 @@ Awesome Shopware 6 plugins, resources, themes, etc
 - [BaseLinker Integration by CREHLER >6.x](https://github.com/crehler/CrehlerBaseLinker)
 - [Edrone CRM Integration by CREHLER >6.x](https://github.com/crehler/CrehlerEdroneCRM)
 - [Shopware Database Synchronizer 6.x](https://github.com/sidworks-dev/sw-db-sync)
-- [Shopauskunft Integration Plugin by Mateusz Zmuda Shopware Freelancer](https://github.com/matzmuda/shopware6-shopauskunft-widget)
 
 ## Resources
 - [You don't need a plugin to customize a Shopware 6 project](https://shyim.me/blog/you-dont-need-a-plugin-to-customize-shopware-6/)
