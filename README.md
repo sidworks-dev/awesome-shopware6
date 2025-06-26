@@ -57,6 +57,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 - [display additional currency in storefront >6.6.x](https://github.com/akshaynikhare/SloxAdditionalCurrency)
 - [Product Labels Plugin >6.6](https://github.com/sidworks-dev/sw-plugin-product-labels)
 - [Shopauskunft Integration > 6.x](https://github.com/matzmuda/shopware6-shopauskunft-widget)
+- [Product Flip/Hover Images >6.6](https://github.com/sidworks-dev/sw-plugin-product-flip-image)
 
 ### Administration
 - [Abandoned Cart API extension >6.5.x](https://github.com/mailcampaigns/shopware-6-abandoned-cart-plugin) (Adds `/abandoned-cart` endpoint to fetch carts from known customers)
