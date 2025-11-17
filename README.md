@@ -90,6 +90,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 - [Theme Preview >6.x](https://github.com/hungmac-sw/MacThemePreview)
 - [Yireo's Shopware 6 Extensions >6.x](https://github.com/yireo-shopware6) (Template Name, WebP, Additional Commands)
 - [CMS Scaffolding >6.x](https://github.com/Shape-and-Shift/shopware-cms-generator) (Generate a CMS element or block scaffolding within seconds)
+- [Template inspector for Shopware 6](https://github.com/sidworks-dev/sw-plugin-devtools) (Instantly reveals the exact Twig source behind any storefront element and opens it in your IDE with one click.)
 
 ### PhpStorm plugins for working with Shopware 6
 - [Symfony Support](https://plugins.jetbrains.com/plugin/7219-symfony-support)
@@ -100,7 +101,6 @@ Awesome Shopware 6 plugins, resources, themes, etc
 - [composer.json support](https://plugins.jetbrains.com/plugin/7631-php-composer-json-support)
 - [PHPUnit Enhancement](https://plugins.jetbrains.com/plugin/9674-phpunit-enhancement)
 - [Shopware 6 Toolbox](https://plugins.jetbrains.com/plugin/17632-shopware-6-toolbox)
-- [Template inspector for Shopware 6](https://github.com/sidworks-dev/sw-plugin-devtools) (Instantly reveals the exact Twig source behind any storefront element and opens it in your IDE with one click.)
 
 ### Speed Optimizations
 - [Frosh HTML Minify >6.x](https://github.com/FriendsOfShopware/FroshPlatformHtmlMinify)
