@@ -100,6 +100,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 - [composer.json support](https://plugins.jetbrains.com/plugin/7631-php-composer-json-support)
 - [PHPUnit Enhancement](https://plugins.jetbrains.com/plugin/9674-phpunit-enhancement)
 - [Shopware 6 Toolbox](https://plugins.jetbrains.com/plugin/17632-shopware-6-toolbox)
+- [Template inspector for Shopware 6](https://github.com/sidworks-dev/sw-plugin-devtools) (Instantly reveals the exact Twig source behind any storefront element and opens it in your IDE with one click.)
 
 ### Speed Optimizations
 - [Frosh HTML Minify >6.x](https://github.com/FriendsOfShopware/FroshPlatformHtmlMinify)
