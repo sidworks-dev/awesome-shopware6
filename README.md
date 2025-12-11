@@ -91,6 +91,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 - [Yireo's Shopware 6 Extensions >6.x](https://github.com/yireo-shopware6) (Template Name, WebP, Additional Commands)
 - [CMS Scaffolding >6.x](https://github.com/Shape-and-Shift/shopware-cms-generator) (Generate a CMS element or block scaffolding within seconds)
 - [Template inspector for Shopware 6](https://github.com/sidworks-dev/sw-plugin-devtools) (Instantly reveals the exact Twig source behind any storefront element and opens it in your IDE with one click.)
+- [Composer file patcher](https://github.com/sidworks-dev/composer-patcher)
 
 ### PhpStorm plugins for working with Shopware 6
 - [Symfony Support](https://plugins.jetbrains.com/plugin/7219-symfony-support)
