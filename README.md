@@ -59,6 +59,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 - [Shopauskunft Integration > 6.x](https://github.com/matzmuda/shopware6-shopauskunft-widget)
 - [Product Flip/Hover Images >6.6](https://github.com/sidworks-dev/sw-plugin-product-flip-image)
 - [Show documents in separate tab >6.6](https://github.com/ukeszler/KeszlerDocumentTab)
+- [Storefront (and product feed) shipping cost calculator >6.7](https://github.com/ukeszler/KeszlerShippingContextPreset)
 
 ### Administration
 - [Abandoned Cart API extension >6.5.x](https://github.com/mailcampaigns/shopware-6-abandoned-cart-plugin) (Adds `/abandoned-cart` endpoint to fetch carts from known customers)
@@ -73,6 +74,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 - [Total Quantity In Cart Rule >6.x](https://github.com/elgentos/shopware-total-qty-in-cart-rule)
 - [Show company name and VAT ID in backend >6.4](https://github.com/MelvinAchterhuis/MelvCustomerOverview)
 - [Zero Margin Default CMS Blocks >6.4](https://github.com/MelvinAchterhuis/MelvZeroMarginBlocks)
+- [Enrich email template with delivery time and stock >6.7](https://github.com/ukeszler/KeszlerDeliveryTimeInEmail)
 
 ### Customer Experience
 - [Shopware 6 Blog Plugin >6.x](https://github.com/Werkstattl/OpenBlogware)
