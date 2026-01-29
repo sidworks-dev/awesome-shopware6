@@ -125,7 +125,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 - [Dutch email templates >6.x](https://github.com/elgentos/shopware-dutch-email-templates)
 - [BaseLinker Integration by CREHLER >6.x](https://github.com/crehler/CrehlerBaseLinker)
 - [Edrone CRM Integration by CREHLER >6.x](https://github.com/crehler/CrehlerEdroneCRM)
-- [Shopware Database Synchronizer 6.x](https://github.com/sidworks-dev/sw-db-sync)
+- [Shopware Database Synchronizer 6.x](https://github.com/sidworks-dev/sw-plugin-database-sync)
 
 ## Resources
 - [You don't need a plugin to customize a Shopware 6 project](https://shyim.me/blog/you-dont-need-a-plugin-to-customize-shopware-6/)
