@@ -132,7 +132,6 @@ Awesome Shopware 6 plugins, resources, themes, etc
 - [Optimization of Thumbnails in PHP](https://shyim.me/blog/thumbnails-and-php/)
 - [Why I Don't like Custom Fields](https://shyim.me/blog/custom-fields/)
 - [Official Shopware 6 docs](https://docs.shopware.com/en/shopware-platform-dev-en)
-- [An introduction into Shopware 6 for Magento developers](https://www.shopware.com/en/news/an-introduction-into-shopware-6-for-magento-developers/)
 - [How to override a Component in Shopware 6](https://webkul.com/blog/how-to-override-a-component-in-shopware-6/)
 - [Overriding Shopware 6 Storefront Page](https://webkul.com/blog/overriding-shopware-6-storefront-page/)
 - [How To Create A Custom Theme In Shopware 6](https://www.bay20.com/how-to-create-a-custom-theme-in-shopware6/)
