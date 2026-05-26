@@ -81,6 +81,9 @@ Awesome Shopware 6 plugins, resources, themes, etc
 - [Frosh Platform Share Basket >6.4](https://github.com/FriendsOfShopware/FroshPlatformShareBasket)
 - [Two Factor Auth 2FA >6.x](https://github.com/runelaenen/shopware6-two-factor-auth)
 
+### Legal / Compliance
+- [Widerrufsbutton >6.7.8](https://github.com/ukeszler/KeszlerWiderrufsbutton) Lightweight email-based withdrawal button and form for the German/EU "Widerrufsbutton" requirements taking effect on 2026-06-19.
+
 ### Marketing
 - [Search Results Insights Plugin >6.6](https://github.com/sidworks-dev/sw-plugin-search-results)
 
