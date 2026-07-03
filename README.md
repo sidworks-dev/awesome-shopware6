@@ -84,6 +84,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 
 ### Marketing
 - [Search Results Insights Plugin >6.6](https://github.com/sidworks-dev/sw-plugin-search-results)
+- [Google Tag Manager >6.7](https://github.com/svsw6/Shop4GoogleTagManager) (Google Tag Manager integration for Shopware 6.7 with a complete GA4 Enhanced Ecommerce data layer and Google Consent Mode v2.)
 
 ### Developer Experience
 - [Official Shopware 6 Migration Assistant >6.x](https://github.com/shopware/SwagMigrationAssistant)
