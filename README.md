@@ -62,6 +62,9 @@ Awesome Shopware 6 plugins, resources, themes, etc
 - [Storefront (and product feed) shipping cost calculator >6.7](https://github.com/ukeszler/KeszlerShippingContextPreset)
 - [BerryPath Guided Selling Flow Widget >6.6](https://github.com/BerryPath/shopware6-berrypath-flow)
 - [Product Filter Count > 6.6](https://github.com/sidworks-dev/sw-plugin-filter-counts)
+- [Hide prices & lock cart for guests or customer groups >6.7](https://github.com/actualizer/ActPriceHide) (Server-side: also strips prices from JSON-LD, listing aggregations and tracking scripts, and blocks all cart/checkout routes.)
+- [Free shipping progress bar >6.7](https://github.com/actualizer/ActFreeShippingBar) (Offcanvas cart and checkout; the threshold is read automatically from the shipping method's price configuration.)
+- [Scheduled information bars >6.7](https://github.com/actualizer/ActInformationBar) (Multiple bars per sales channel, each with its own schedule; texts per sales channel and language, rotating messages, optional CTA button.)
 
 ### Administration
 - [Abandoned Cart API extension >6.5.x](https://github.com/mailcampaigns/shopware-6-abandoned-cart-plugin) (Adds `/abandoned-cart` endpoint to fetch carts from known customers)
@@ -82,6 +85,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 - [Shopware 6 Blog Plugin >6.x](https://github.com/Werkstattl/OpenBlogware)
 - [Frosh Platform Share Basket >6.4](https://github.com/FriendsOfShopware/FroshPlatformShareBasket)
 - [Two Factor Auth 2FA >6.x](https://github.com/runelaenen/shopware6-two-factor-auth)
+- [Passkey / WebAuthn login >6.7](https://github.com/actualizer/ActPasskey) (Passwordless login for storefront customers and admin users, with usernameless sign-in, self-service passkey management and multi-domain support.)
 
 ### Marketing
 - [Search Results Insights Plugin >6.6](https://github.com/sidworks-dev/sw-plugin-search-results)
