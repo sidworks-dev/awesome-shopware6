@@ -80,6 +80,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 - [Show company name and VAT ID in backend >6.4](https://github.com/MelvinAchterhuis/MelvCustomerOverview)
 - [Zero Margin Default CMS Blocks >6.4](https://github.com/MelvinAchterhuis/MelvZeroMarginBlocks)
 - [Enrich email template with delivery time and stock >6.7](https://github.com/ukeszler/KeszlerDeliveryTimeInEmail)
+- [Country translations for every shop language >6.6](https://github.com/kommora-de/shopware-country-translations) (Fills the country names of all shop languages from CLDR / Symfony Intl, offline and without configuration)
 
 ### Customer Experience
 - [Shopware 6 Blog Plugin >6.x](https://github.com/Werkstattl/OpenBlogware)
