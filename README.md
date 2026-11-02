@@ -78,6 +78,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 - [Auto Meta Details >6.1](https://github.com/DevertNet/DevertAutoMetaDetails)
 - [Total Quantity In Cart Rule >6.x](https://github.com/elgentos/shopware-total-qty-in-cart-rule)
 - [Show company name and VAT ID in backend >6.4](https://github.com/MelvinAchterhuis/MelvCustomerOverview)
+- [EU VAT ID check (VIES) >6.6](https://github.com/wsystemdev/shopware-eu-vat-check) (Checks business customers' VAT IDs live against the EU VIES database at registration and profile edit, so only confirmed VAT IDs get Shopware's tax-free company price; stores the VIES result on each order.)
 - [Zero Margin Default CMS Blocks >6.4](https://github.com/MelvinAchterhuis/MelvZeroMarginBlocks)
 - [Enrich email template with delivery time and stock >6.7](https://github.com/ukeszler/KeszlerDeliveryTimeInEmail)
 - [Country translations for every shop language >6.6](https://github.com/kommora-de/shopware-country-translations) (Fills the country names of all shop languages from CLDR / Symfony Intl, offline and without configuration)
