@@ -23,6 +23,7 @@ Awesome Shopware 6 plugins, resources, themes, etc
 - [Buckaroo >6.5](https://github.com/buckaroo-it/Shopware_6)
 - [Show SEPA payment fields on checkout page >6.3](https://github.com/steampixel/SteamPixelSepa)
 - [crypto payment for shopware 6>6.3](https://nowpayments.io/payment-integration/shopware-plugin)
+- [Blokbay crypto payments >6.7](https://github.com/blokbay/shopware-crypto-payments)
 
 ### Theme
 - [digitalmanufaktur - shopware6-manu-theme >6.x](https://github.com/digitalmanufaktur/shopware6-manu-theme)
